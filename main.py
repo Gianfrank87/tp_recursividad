@@ -1,3 +1,10 @@
+# ROMANO A DECIMAL #
+
+import romano_a_decimal
+
+number = input("Ingrese un numero romano: ")
+print("El numero en decimal es: " + romano_a_decimal(number))
+
 # LA MOCHILA DEL JEDI #
 
 import usar_la_fuerza
