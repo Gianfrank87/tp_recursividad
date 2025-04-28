@@ -15,7 +15,7 @@ mochila = ["comida", "botiquín", "cuerda", "sable de luz", "agua"]
 encontrado, cantidad = usar_la_fuerza.usar_la_fuerza(mochila)
 
 if encontrado:
-    print(f"¡Sable encontrado! Se sacaron {cantidad} objetos.")
+    print(f"Sable encontrado, Se sacaron {cantidad} objetos.")
 else:
     print("No se encontró el sable de luz.")
     
